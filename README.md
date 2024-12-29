@@ -49,6 +49,17 @@ A full-stack train seat reservation system built with Next.js, PostgreSQL, and P
 - npm or yarn
 - Vercel account (for database)
 
+## ScreenShots
+
+![screencapture-kzmovdmm43gzn7eygqwx-lite-vusercontent-net-bookings-2024-12-28-18_57_32](https://github.com/user-attachments/assets/1e538649-2908-4d24-ab92-5aca89865b38)
+
+![screencapture-kzmovdmm43gzn7eygqwx-lite-vusercontent-net-bookings-2024-12-28-19_21_40](https://github.com/user-attachments/assets/1e627e98-27a9-4ce4-90b6-7723e2cac567)
+
+![screencapture-kzmovdmm43gzn7eygqwx-lite-vusercontent-net-bookings-2024-12-28-18_59_57](https://github.com/user-attachments/assets/d41faa24-071e-49d3-a1a3-1bb8dc4359a2)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/30f4222e-d978-41a9-8834-5018a813e2cb)
+
+
 ## Getting Started
 
 ### 1. Clone the Repository
